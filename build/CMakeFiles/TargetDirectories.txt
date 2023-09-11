@@ -1,0 +1,5 @@
+/code/src/Raytracing/build/CMakeFiles/rebuild_cache.dir
+/code/src/Raytracing/build/CMakeFiles/edit_cache.dir
+/code/src/Raytracing/build/src/CMakeFiles/rebuild_cache.dir
+/code/src/Raytracing/build/src/CMakeFiles/edit_cache.dir
+/code/src/Raytracing/build/src/CMakeFiles/Raytracing.dir

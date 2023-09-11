@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/g++  -g  -rdynamic CMakeFiles/Raytracing.dir/BVH.cc.o CMakeFiles/Raytracing.dir/Material.cc.o CMakeFiles/Raytracing.dir/Renderer.cc.o CMakeFiles/Raytracing.dir/Scene.cc.o CMakeFiles/Raytracing.dir/Sphere.cc.o CMakeFiles/Raytracing.dir/Triangle.cc.o CMakeFiles/Raytracing.dir/main.cc.o  -o ../../bin/Raytracing 

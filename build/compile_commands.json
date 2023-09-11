@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/BVH.cc.o -c /code/src/Raytracing/src/BVH.cc",
+  "file": "/code/src/Raytracing/src/BVH.cc"
+},
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/Material.cc.o -c /code/src/Raytracing/src/Material.cc",
+  "file": "/code/src/Raytracing/src/Material.cc"
+},
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/Renderer.cc.o -c /code/src/Raytracing/src/Renderer.cc",
+  "file": "/code/src/Raytracing/src/Renderer.cc"
+},
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/Scene.cc.o -c /code/src/Raytracing/src/Scene.cc",
+  "file": "/code/src/Raytracing/src/Scene.cc"
+},
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/Sphere.cc.o -c /code/src/Raytracing/src/Sphere.cc",
+  "file": "/code/src/Raytracing/src/Sphere.cc"
+},
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/Triangle.cc.o -c /code/src/Raytracing/src/Triangle.cc",
+  "file": "/code/src/Raytracing/src/Triangle.cc"
+},
+{
+  "directory": "/code/src/Raytracing/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++   -I/code/src/Raytracing/include  -g   -std=gnu++1z -o CMakeFiles/Raytracing.dir/main.cc.o -c /code/src/Raytracing/src/main.cc",
+  "file": "/code/src/Raytracing/src/main.cc"
+}
+]
